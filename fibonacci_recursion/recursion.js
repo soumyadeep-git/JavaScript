@@ -8,4 +8,4 @@ let fibonacci = function (term) {
     }
     return fibonacci(term - 1) + fibonacci(term - 2);
 };
-console.log(fibonacci(8)); //here 8 will give you the 8th term of the fibonacci series.
+console.log(fibonacci(10)); //here 8 will give you the 8th term of the fibonacci series.
